@@ -1,0 +1,10 @@
+Park Rd. & Poplar Ave.,	    1	605	635
+Rolling Rd @ Valley Rd (CCBC),	5	238	550
+Mellor Ave & Frederick Rd,	8	145	560
+Harlem La & Edmondson Ave,	11	163	569
+St. Agnes La & Harwall Rd,	15	82	489
+Ingleside Ave & Craigmont Rd,	18	105	625
+Bloomsbury Ave. & Holmes Ave.,	22	120	385
+Hilltop Cir. & Hilltop Rd.,	26	385	755
+Park Rd. & Poplar Ave.,	    30	126	610
+End Route

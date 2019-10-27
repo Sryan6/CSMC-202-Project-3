@@ -1,0 +1,34 @@
+Park Rd. & Poplar Ave.,	        1	384	796
+Hilltop Cir. & Commons Dr.,	2 	517	379
+BWI MARC & AMTRAK Station,	3 	314	627
+Linden Ave & East Dr,		4	432	310
+East Dr & Maple Ave,		5	116	684
+Sulphur Spring Rd & Selma Ave,	6	106	230
+Waelchli Ave @ Post Office,	7	577	777
+Waelchli Ave & Potomac Ave,	8	307	713
+Potomac Ave & Arbutus Ave,	9	362	229
+Potomac Ave & Maple Ave,	10	247	484
+Halethorpe MARC Station,	11	506	420
+Francis Ave @ Halethorpe SC,	12	125	240
+Selford Rd. & Francis Ave.,	13	368	365
+Selford Rd. & Oakmoor Dr.,	14	391	310
+Selford Rd. & Grovehill Rd,	15	543	668
+Selford Rd. & Elm Rd,	        16	305	733
+BW Tech South,                 	17	413	360
+Satellite Lot,		        18	278	249
+Sulphur Spring Rd & Selford Rd,	19	159	695
+Shelbourne Ave @ Arbutus Mid., 	20	154	424
+Poplar Ave & Hilltop Circle,	21	398	760
+Commons Dr. & Park Rd.,		22	251	600
+Park Rd. & Poplar Ave.,		23	511	566
+End Route,
+Park Rd. & Poplar Ave.,         1   605 635
+Rolling Rd @ Valley Rd (CCBC),  5   238 550
+Mellor Ave & Frederick Rd,      8   145 560
+Harlem La & Edmondson Ave,      11  163 569
+St. Agnes La & Harwall Rd,      15  82  489
+Ingleside Ave & Craigmont Rd,   18  105 625
+Bloomsbury Ave. & Holmes Ave.,  22  120 385
+Hilltop Cir. & Hilltop Rd.,     26  385 755
+Park Rd. & Poplar Ave.,         30  126 610
+End Route,
